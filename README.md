@@ -27,3 +27,8 @@ Den tredje och kanske största fasen är inloggning& registrering, bilduppladdni
 
 I den fjärde fasen snyggar jag till alltihopa och finns det tid över så lägger jag till features som bildgenerering, som även fanns i originalet. Och kanske anpassning till fullscreen.
 Finns det ännu mer tid över så gör jag mobilversion av kontrollerna, och nyttjar mobilens olika sensorer till att ändra parametrarna.
+
+----
+
+Jag har på kvällen testat att översätta det jag gjorde i flash till js, och kommit fram till att det kommer att ta längre tid än jag trodde att få den effekt jag söker. Så jag har tänkt kasta om prioriteringarna, så att jag i första fas gör en oath baserad inloggning med usertabell i supabase databas.
+
