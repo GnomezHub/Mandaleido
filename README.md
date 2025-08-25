@@ -11,5 +11,19 @@ It will have a database to store the animation presets and images, with differen
 
 _Fortsätter på svenska, översätter till engelska i ett senare skede_
 
-Den ursprungliga ambitionen ligger i att ha allting webbaserat, men misslyckas jag att återskapa den visuella, animerade biten med webbaserade verktyg så får jag ha ett externt program som körs sidanom och kommunicerar med webben. Jag har testat lite snabbt med p5.js och det gav inte samma resultat. Jag känner att det måste finnas ett sätt att återskapa något på webben som har kunnat köra bra i flash för 15 år sedan. 
-Den nuvarande självstående versionen av programmet lagrar inställingar och bilder lokalt. Om jag ska ha gränsitt för kontroller och bilder utanför och bara de visuella effekterna för sig så uppkommer vissa frågeställningar, såsom: Är detta rätt projekt? Jag tänker börja med att göra en enkel avskalad version av det visuella i actionscript för att sedan se om det överhuvudtaget går att översätta till nåt webb-baserat. Det är ett projekt som ligger mig nära hjärtat, ett specialintresse, men det finns inslag av vemod ifall det visar sig att jag inte kan ha allt på webben. I så fall måste jag kanske tänka om och välja något lättare...
+Mandaleido är ett program som jag skrev för att projicera det på fester, på taken i chillout-tälten mest. Man drag& droppar bilder så animeras dom. Ändrar de olika parametrarna med skrollhjulet. Olika fönster, så att man kunde ha effekterna på fullskärm i em separat skärm projicerad.
+Det här projektet går ut på att göra en webb-adaptering av det över 10 årig gamla programmet. Inte för projektioner nödvändigtvis, kanske mer för sin meditativa effekt, eller för att ta fram mandala liknande mönster av egna bilder...
+
+Det ska gå att:
+- testa lagrade presets, ändra dessa (temporärt) och välja bland uppladdade bilder om man är anonym. 
+- skapa och lagra och ställa in presets samt att lägga upp bilder, om man är inloggad.
+- allt ovanstående samt ta bort och lägga till bilder och presets oavsett vems, om man är admin (inloggade kan göra detta enbart på sina egna)
+
+I den första fasen försöker jag ta fram en webb baserad version av de kaleidoskopiska animeringar. 
+
+I den andra fasen skapar jag kontrollerna för att styra och ställa in parametrarna.
+
+Den tredje och kanske största fasen är inloggning& registrering, bilduppladdning och gränsnittet för att lista de olika presets, samt skapa& ändra och ta bort bland dessa.
+
+I den fjärde fasen snyggar jag till alltihopa och finns det tid över så lägger jag till features som bildgenerering, som även fanns i originalet. Och kanske anpassning till fullscreen.
+Finns det ännu mer tid över så gör jag mobilversion av kontrollerna, och nyttjar mobilens olika sensorer till att ändra parametrarna.
