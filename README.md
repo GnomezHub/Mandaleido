@@ -34,4 +34,4 @@ Jag har på kvällen testat att översätta det jag gjorde i flash till js, och 
 
 ---
 
-Valet stod mellan MVC och react&supabase. Med MVC skulle jag ha fått mycket gratis då jag redan har gjort en grund med inloggning, användare med roller och bilduppladdning när jag gjorde filmdatabasen. Men det blev react och supabase då jag behöver utmaningen att göra om detta på det 'andra sättet' som dessutom möjliggör att potentiella arbetsgivare kan testa mitt slutprojekt online utan installeringar. Vidare lämpar sig react för denna webbapplikationen som bör ligga på en sida utan omladdningar.
+Ny dag. Blir lite dagsboksliknande denna readme till en början verkar det som. Valet stod mellan MVC och react&supabase. Med MVC skulle jag ha fått mycket gratis då jag redan har gjort en grund med inloggning, användare med roller och bilduppladdning när jag gjorde filmdatabasen. Men det blev react och supabase då jag behöver utmaningen att göra om detta på det 'andra sättet' som dessutom möjliggör att potentiella arbetsgivare kan testa mitt slutprojekt online utan installeringar. Överväger att lära mig next.js eller react+vite+react query
