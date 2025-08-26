@@ -32,3 +32,6 @@ Finns det ännu mer tid över så gör jag mobilversion av kontrollerna, och nyt
 
 Jag har på kvällen testat att översätta det jag gjorde i flash till js, och kommit fram till att det kommer att ta längre tid än jag trodde att få den effekt jag söker. Så jag har tänkt kasta om prioriteringarna, så att jag i första fas gör en oath baserad inloggning med usertabell i supabase databas.
 
+---
+
+Valet stod mellan MVC och react&supabase. Med MVC skulle jag ha fått mycket gratis då jag redan har gjort en grund med inloggning, användare med roller och bilduppladdning när jag gjorde filmdatabasen. Men det blev react och supabase då jag behöver utmaningen att göra om detta på det 'andra sättet' som dessutom möjliggör att potentiella arbetsgivare kan testa mitt slutprojekt online utan installeringar. Vidare lämpar sig react för denna webbapplikationen som bör ligga på en sida utan omladdningar.
