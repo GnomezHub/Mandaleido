@@ -41,5 +41,5 @@ Ny dag. Blir lite dagsboksliknande denna readme till en början verkar det som. 
 
 ## Avbryter projektet
 #### Jag har kommit fram till att jag inte kommer att lyckas återskapa effekten av mitt ursprungliga program så att det blir meningsfullt att lagra olika presets och avbryter därför projektet.
-### Startar istället en ny repository om ett projekt som handlar om timpriset av el för planering av dess bruk 
+### Startar istället en ny repository om ett projekt som handlar om timpriset av el för planering av dess bruk -> https://github.com/GnomezHub/elpriset
 
