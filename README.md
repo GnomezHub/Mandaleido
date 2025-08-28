@@ -1,5 +1,6 @@
-# Mandaleido
-## Final project on my fullstack developer course @Lexicon
+<span style="color:red;">Detta projekt är avbrutet :-( </span>
+# <del>Mandaleido</del> 
+## <del>Final project on my fullstack developer course @Lexicon </del>
 #### The idea is to make a web adaptation of my actionscript air application "Mandaleido", that uses controls to make kaleidoscopic animations of an image provided by the user.
 
 [![Demo Video](https://github.com/user-attachments/assets/812290e0-21d6-4cd2-b45c-db57f3729182)](https://www.youtube.com/watch?v=V7Cxf1Wduok)
@@ -35,3 +36,10 @@ Jag har på kvällen testat att översätta det jag gjorde i flash till js, och 
 ---
 
 Ny dag. Blir lite dagsboksliknande denna readme till en början verkar det som. Valet stod mellan MVC och react&supabase. Med MVC skulle jag ha fått mycket gratis då jag redan har gjort en grund med inloggning, användare med roller och bilduppladdning när jag gjorde filmdatabasen. Men det blev react och supabase då jag behöver utmaningen att göra om detta på det 'andra sättet' som dessutom möjliggör att potentiella arbetsgivare kan testa mitt slutprojekt online utan installeringar. Överväger att lära mig next.js eller react+vite+react query
+
+---
+
+## Avbryter projektet
+#### Jag har kommit fram till att jag inte kommer att lyckas återskapa effekten av mitt ursprungliga program så att det blir meningsfullt att lagra olika presets och avbryter därför projektet.
+### Startar istället en ny repository om ett projekt som handlar om timpriset av el för planering av dess bruk 
+
